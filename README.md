@@ -1,4 +1,5 @@
 # *Can You Hear Me?*
+<img alt="Discord" src="https://img.shields.io/discord/878274776089632769?color=gray&label=%20%20&logo=discord&logoColor=white&style=for-the-badge"> <img alt="Twitch Status" src="https://img.shields.io/twitch/status/frronto?color=gray&label=%20&logo=twitch&logoColor=white&style=for-the-badge"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=gray&label=frronto&logo=twitter&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.twitter.com%2Ffrronto">
 
 - [About](#About)
 - [How To Play](#How-To-Play)
