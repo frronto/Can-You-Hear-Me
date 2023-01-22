@@ -2,6 +2,7 @@
 
 - [About](#About)
 - [How To Play](#How-To-Play)
+- [Rules](#Rules)
 
 # About
 
@@ -32,4 +33,11 @@ Or for mobile and xbox search "**Can You Hear Me?**" in games and click the one 
 
 Click on the green button that has a sideways triangle on it.
 
-#
+
+# Rules
+
+There isnt any rules except to follow Roblox's Cummunity Standards and TOS which can be found below.
+
+https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards
+
+https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use
