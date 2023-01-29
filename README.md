@@ -4,6 +4,7 @@
 - [About](#About)
 - [How To Play](#How-To-Play)
 - [Rules](#Rules)
+- [Changelog](#Changelog)
 
 # About
 
@@ -44,3 +45,13 @@ There isnt any rules except to follow Roblox's Cummunity Standards and TOS which
 https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards
 
 https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use
+
+
+# Changelog
+
+<h3>V 2.4</h3>
+
+<h4> GUI update</h4>
+Made more friendly for the new roblox screenspace update.
+
+<h3> Thats All for now. We do have plans to make the gui slide in.</h3>
